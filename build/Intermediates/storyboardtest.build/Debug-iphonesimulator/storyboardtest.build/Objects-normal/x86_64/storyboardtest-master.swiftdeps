@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "00184274d8aed66f98d1be5c35a179fd"
+build_time: [516655503, 63487000]
+inputs:
+  "/Users/kule/XcodeProjects/storyboardtest/storyboardtest/PlayerCell.swift": [516655215, 0]
+  "/Users/kule/XcodeProjects/storyboardtest/Player.swift": [516651464, 0]
+  "/Users/kule/XcodeProjects/storyboardtest/storyboardtest/ViewController.swift": [516645092, 0]
+  "/Users/kule/XcodeProjects/storyboardtest/storyboardtest/AppDelegate.swift": [516645092, 0]
+  "/Users/kule/XcodeProjects/storyboardtest/storyboardtest/SampleData.swift": [516651658, 0]
+  "/Users/kule/XcodeProjects/storyboardtest/storyboardtest/PlayersViewController.swift": [516655500, 0]
